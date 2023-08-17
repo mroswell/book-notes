@@ -20,5 +20,3 @@ site: distill::distill_website
 ## Bio
 
 **Marjorie Roswell** | Data Analyst | Folk Singer
-
-instause
