@@ -1,6 +1,6 @@
 ---
 title: "Marjorie Roswell"
-image: "frank.jpg"
+image: "marjorieroswell.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/ target='_blank'"
@@ -21,3 +21,4 @@ site: distill::distill_website
 
 **Marjorie Roswell** | Data Analyst | Folk Singer
 
+instause
